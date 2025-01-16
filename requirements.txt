@@ -1,0 +1,7 @@
+gradio
+requests
+langchain
+langchain_community
+sentence-transformers
+PyMuPDF
+faiss-cpu
